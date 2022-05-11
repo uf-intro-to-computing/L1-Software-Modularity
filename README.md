@@ -8,3 +8,5 @@ Activate the virtual environment on Windows PowerShell by typing `.\.venv\Script
 
 After activating the virtual environment, install the dependencies by typing
 `pip install -r requirements.txt`
+
+Run the program by typing `python gui.py`
