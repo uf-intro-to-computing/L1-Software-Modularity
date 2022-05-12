@@ -22,7 +22,4 @@ display.show(gui)
 
 while True:
     display.refresh()
-    click = display.get_mouse_clicks()
-    if click:
-        print(click)
     time.sleep(0.2)
