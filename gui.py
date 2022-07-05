@@ -6,11 +6,11 @@ import time
 
 WIDTH = 320
 HEIGHT = 240
-CS = VSCode.dark
+CS = VSCode.light
 
 # TODO: Here is where we need to create the object that represents our "display"
 # This is the screen where we want our graphical user interface (GUI) to appear.
-display = 
+display =
 
 gui = UniGui(WIDTH, HEIGHT, colorscheme=CS)
 
